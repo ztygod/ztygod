@@ -2,7 +2,7 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning computer science. I'm now a student
 - 💞️ I’m looking to collaborate on cteating games
-- 📫 How to reach me ...
+- 📫 How to reach me. Actually, I have no idea. hhhhh
 
 <!---
 ztygod/ztygod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
