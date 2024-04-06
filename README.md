@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ztygod
-- 👀 I’m interested in games
-- 🌱 I’m currently learning computer science. I'm now a student
-- 💞️ I’m looking to collaborate on cteating games
-- 📫 How to reach me. Actually, I have no idea. hhhhh
+🎊 hello，我是TianYi
+🫡 目前 南京信息工程大学 计算机专业 就读
+🚕在这里会记录我的前端学习笔记与过程
+😁 我的个人博客 https://www.yuque.com/yuqueyonghupohswj
+😎 共勉，谢谢🐬🐬🐬
 
 <!---
 ztygod/ztygod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
