@@ -4,7 +4,7 @@
 - 🌱 Currently learning: Rust,Nest.js,AI,Full Stack
 - 🎯 Goals for 2025: Contribute to more open-source projects
 - ⚡ Fun fact: I love traveling, video games (especially FPS), reading, and playing various sports but I am not proficient in them😂.
-- 📚 [Blog🐬🐬🐬](https://www.yuque.com/yuqueyonghupohswj)
+- 📚 [Blog](https://www.yuque.com/yuqueyonghupohswj)🐬🐬🐬
 
 ## 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -14,6 +14,9 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)
+
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2739022972@qq.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztygod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztygod)](https://github.com/anuraghazra/github-readme-stats)
 
