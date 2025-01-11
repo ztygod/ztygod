@@ -1,10 +1,19 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=09D5F7&center=%E7%9C%9F%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=true&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=655&lines=%F0%9F%8F%ABHello%2CI'm+TianYi%EF%BC%8Cstudy+at+NUIST%E2%9C%A8;%F0%9F%93%9AFocus+on+front-end+and+full-stack+development%E2%9C%A8;%F0%9F%92%93Open+source+enthusiast%E2%9C%A8)](https://git.io/typing-svg)
 
-[个人博客](https://www.yuque.com/yuqueyonghupohswj)
+## 🚀 About Me
+- 🌱 Currently learning: Rust,Nest.js,AI,Full Stack
+- 🎯 Goals for 2025: Contribute to more open-source projects
+- ⚡ Fun fact: I love traveling, video games (especially FPS), reading, and playing various sports but I am not proficient in them😂.
+- 📚 [Blog🐬🐬🐬](https://www.yuque.com/yuqueyonghupohswj)
 
-追求内心的宁静与充盈
-
-共勉，谢谢🐬🐬🐬
+## 🛠️ Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztygod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztygod)](https://github.com/anuraghazra/github-readme-stats)
 
