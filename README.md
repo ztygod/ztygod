@@ -17,7 +17,7 @@
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2739022972@qq.com)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)(mailto:https://discord.com/channels/@me)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](mailto:https://discord.com/channels/@me)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztygod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztygod)](https://github.com/anuraghazra/github-readme-stats)
 
