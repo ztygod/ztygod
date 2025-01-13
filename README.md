@@ -19,7 +19,6 @@
 
 ## 🌟 Projects
 - [Blog](https://github.com/ztygod/ztygod.github.io): Personal blog based on Hexo. 2024.11 - now
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ztygod&repo=ztygod.github.io)](https://github.com/ztygod/ztygod.github.io)
 - [Full stack backend management](https://github.com/ztygod/vue-nest-admin): Full stack backend management system developed based on Vue and nest.js. 2024.11
 - [Instant Communications](https://github.com/ztygod/tianyi-chat-frontend): A simple full-stack instant messaging project. 2024.6
 - [Backstage management project](https://github.com/ztygod/tianyi-admin): My first front-end project, a simple backend management template. 2024.3
