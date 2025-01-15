@@ -17,6 +17,9 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+## 💼 Internship Experience
+美团-金服-大前端研发-履约体验 2024.10 - 2024.12
+
 ## 🌟 Projects
 - [Blog](https://github.com/ztygod/ztygod.github.io): Personal blog based on Hexo. 2024.11 - now
 - [Full stack backend management](https://github.com/ztygod/vue-nest-admin): Full stack backend management system developed based on Vue and nest.js. 2024.11
