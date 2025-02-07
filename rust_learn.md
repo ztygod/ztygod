@@ -102,4 +102,19 @@ Rust的生态系统非常丰富，以下是一些值得探索的方向：
 - **记录学习过程**：写技术博客或录制视频，分享你的学习心得。
 - **参与社区活动**：参加Rust Meetup或线上讨论，结识志同道合的开发者。
 
+
+### 1️⃣ **CLI 工具相关**
+- **[tokei](https://github.com/XAMPPRocky/tokei)**：一个快速的代码行数统计工具，支持多种语言。可以了解如何用 Rust 构建一个高效的 CLI 工具，特别是参数解析、文件处理等。
+- **[ripgrep](https://github.com/BurntSushi/ripgrep)**：一个用 Rust 实现的快速文本搜索工具。`ripgrep` 采用并发方式来提高性能，代码结构清晰，适合学习如何设计一个高效的命令行工具。
+- **[fd](https://github.com/sharkdp/fd)**：一个用 Rust 编写的文件搜索工具。与 `ripgrep` 类似，`fd` 也有丰富的 CLI 功能，适合用来了解文件系统操作、正则表达式和并发。
+
+### 2️⃣ **并发相关**
+- **[rayon](https://github.com/rayon-rs/rayon)**：一个数据并行库，让你在 Rust 中使用并发操作处理数据。学习这个库可以帮助你了解如何通过多线程进行并行计算。
+- **[async-std](https://github.com/async-rs/async-std)**：一个异步编程库，提供了类似标准库的异步版本。适合了解如何用 Rust 进行异步 I/O 操作。
+- **[actix](https://github.com/actix/actix)**：一个高性能、轻量级的 Rust actor 框架，可以帮助你理解并发和并行处理的概念，尤其是在 web 开发和服务端编程中。
+
+### 3️⃣ **小型项目**
+- **[rust-cli-template](https://github.com/kbknapp/rust-cli-template)**：一个简单的 CLI 项目模板，适合刚开始学习 Rust 的人。可以从这个项目开始，快速搭建一个基础的 CLI 工具，并进行修改和扩展。
+  
+
 ---
