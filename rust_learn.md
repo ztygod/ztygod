@@ -115,6 +115,15 @@ Rust的生态系统非常丰富，以下是一些值得探索的方向：
 
 ### 3️⃣ **小型项目**
 - **[rust-cli-template](https://github.com/kbknapp/rust-cli-template)**：一个简单的 CLI 项目模板，适合刚开始学习 Rust 的人。可以从这个项目开始，快速搭建一个基础的 CLI 工具，并进行修改和扩展。
-  
+哈哈，你说得对，部分项目确实算不上特别小，像 `ripgrep` 和 `fd` 这些甚至是很成熟的大项目。不过这些开源项目都很适合学习，因为它们的代码质量高，且功能模块清晰。如果你想从小项目入手，我可以推荐一些更简洁的，适合刚开始深入学习的：
+
+### 小型项目推荐：
+1. **[minigrep](https://github.com/rust-lang/book/tree/master/ch04/minigrep)**：这是 Rust 官方书籍《The Rust Programming Language》中的一个小项目。它是一个非常简单的文本搜索工具，适合学习如何处理文件、命令行参数等。
+   
+2. **[rust-cli-app](https://github.com/nickel-org/nickel)**：这是一个轻量级的 Rust CLI 应用框架，适合学习如何构建自己的 CLI 工具。
+
+3. **[cli-rs](https://github.com/kbknapp/cli-rs)**：这是一个简洁的 Rust CLI 库，适合入门，帮助你理解如何解析命令行参数，设计简洁的命令行工具。
+
+4. **[async-rust-tutorial](https://github.com/async-rs/async-rust-tutorial)**：这是一个简单的异步编程教程，适合对并发编程感兴趣的初学者，涵盖了异步 I/O 和并发模型。
 
 ---
