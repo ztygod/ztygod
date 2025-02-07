@@ -5,7 +5,7 @@
 - 🎯 Goals for 2025: Contribute to more open-source projects
 - ⚡ Fun fact: I love traveling, video games (especially FPS), reading, and playing various sports but I am not proficient in them😂.
 - 📚 [Blog](https://www.yuque.com/yuqueyonghupohswj)🐬🐬🐬
-- 🅿️ [Plan](plan.md)
+- 🅿 [Plan](plan.md)
 
 ## 🛠️ Skills
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
