@@ -22,7 +22,7 @@
 
 ## 💼 Internship Experience
 - 美团-金服-大前端研发 2024.10 - 2024.12
-- 快手-国际化 2025.3.11 - Now
+- 快手-国际化 2025.3 - Now
 
 ## 🌟 Projects
 - [Blog](https://github.com/ztygod/ztygod.github.io): Personal blog based on Hexo. 2024.11 - now
