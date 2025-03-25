@@ -21,7 +21,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 💼 Internship Experience
-- 美团-金服-大前端研发 2024.10 - 2024.12
+- 美团-金服 2024.10 - 2024.12
 - 快手-国际化 2025.3 - Now
 
 ## 🌟 Projects
