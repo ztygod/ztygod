@@ -2,7 +2,7 @@
 <h2 align="left">Hi there 👋! </h2>
 
 <div align = 'center'>
-  <img src='https://avatars.githubusercontent.com/u/55825014?v=4' width='200' style='border-radius:50%'>
+  <img src='https://github.com/ztygod/ztygod/blob/main/sky.jpg' style='width: 100vw; height: 300px'>
   <br>
   <h3>TianYi Zhou</h3>
   <p>🚀 Full-Stack Developer | Open Source Contributor</p>
