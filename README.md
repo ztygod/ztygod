@@ -20,7 +20,7 @@
 ```js
 const FullStackDeveloper = {};
 const TianYi = Object.create(FullStackDeveloper)
-  TianYi.from = '湖南 长沙'
+  TianYi.from = '江苏 南京'
   TianYi.motto = '坚刚不可夺其志，万念不能乱其心'
   TianYi.target = function () {
       setTimeout(() => {
