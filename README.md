@@ -17,15 +17,24 @@
 ---
 
 ```js
-const FullStackDeveloper = {};
-const TianYi = Object.create(FullStackDeveloper)
-  TianYi.from = '江苏 南京'
-  TianYi.motto = '坚刚不可夺其志，万念不能乱其心'
-  TianYi.target = function () {
-      setTimeout(() => {
-          TianYi.identity = 'Build meaningful products'
-      }, 86400*365)
-  }
+const FullStackDeveloper = {
+  role: 'Full Stack Developer',
+  skills: ['TypeScript', 'Rust', 'Vue', 'NestJS', 'Node.js', 'SQL', 'DDD'],
+  traits: ['Builder mindset', 'Lifelong learner', 'System thinker'],
+};
+
+const TianYi = Object.create(FullStackDeveloper);
+
+TianYi.name = 'TianYi Zhou';
+TianYi.from = '江苏 南京';
+TianYi.motto = '坚刚不可夺其志，万念不能乱其心';
+TianYi.identity = 'Curious Developer';
+TianYi.target = function () {
+  setTimeout(() => {
+    this.identity = 'Build meaningful products';
+    console.log(`Updated identity: ${this.identity}`);
+  }, 86400 * 365); // one year later
+};
 ```
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
