@@ -6,7 +6,7 @@
   <h3>TianYi Zhou</h3>
   <p>🚀 Full-Stack Developer | Open Source Contributor</p>
     <div align="center">
-      [![GitHub Streak](https://streak-stats.demolab.com?user=ztygod&theme=dark&hide_border=true)](https://git.io/streak-stats)
+     <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ztygod&theme=vue'>
     </div>
 
   <p align="center">
