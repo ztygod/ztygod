@@ -6,7 +6,7 @@
   <h3>TianYi Zhou</h3>
   <p>🚀 Full-Stack Developer | Open Source Contributor</p>
     <div align="center">
-     <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ztygod&theme=vue'>
+     <img src='https://github-readme-stats.vercel.app/api?username=ztygod&show_icons=true&theme=shadow_green'>      
     </div>
 
   <p align="center">
