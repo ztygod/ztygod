@@ -1,7 +1,7 @@
 <h2 align="left">Hi there 👋! </h2> 
 
 <div align = 'center'>
-  <img src='https://github.com/ztygod/ztygod/blob/main/sky.jpg' style='width: 100vw; height: 300px'>
+  <img src='https://github.com/ztygod/ztygod/blob/main/miku.jpg' style='width: 100vw; height: 550px'>
   <br>
   <h3>TianYi Zhou</h3>
   <p>🚀 Full-Stack Developer | Open Source Contributor</p>
