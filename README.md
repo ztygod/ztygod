@@ -2,7 +2,7 @@
 <div align='center'>
   <!-- <img src='https://github.com/ztygod/ztygod/blob/main/miku.jpg' style='width: 100vw; height: 500px'> -->
   <br>
-  <h3>TianYi Zhou</h3>
+  <h3>TianYi Zhou</h3><a href="https://ghfind.com/u/ztygod?ref=badge"><img src="https://ghfind.com/api/badge/ztygod" alt="GitHub Roast 评分徽章" /></a>
     <p>
       <code>🎓 CS Undergraduate <a href="https://www.nuist.edu.cn/">@NUIST</a></code>
       <code>💼 Ex-Intern <a href="https://github.com/meituan">@Meituan</a> · <a href="https://github.com/kwai">@Kuaishou</a> · <a href="https://github.com/bytedance/">@ByteDance</a></code>
